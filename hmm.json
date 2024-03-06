@@ -74,7 +74,14 @@
             "type":"git",
             "dir":null,
             "ref":"main",
-            "url":"https://github.com/JonnycatMeow/hxCodec-old.git"
+            "url":"https://github.com/JonnycatMeow/hxCodec-2.5.1"
+        },
+        {
+            "name": "hxvlc",
+            "type": "git",
+            "dir": null,
+            "ref": "main",
+            "url": "https://github.com/MAJigsaw77/hxvlc"
         },
         {
             "name":"extension-androidtools",
@@ -83,7 +90,7 @@
             "ref":"main",
             "url":"https://github.com/MaysLastPlay77/extension-androidtools"
         },
-      {
+        {
             "name":"hxShaders",
             "type":"git",
             "dir":null,
