@@ -94,7 +94,7 @@
             "name":"hxShaders",
             "type":"git",
             "dir":null,
-            "ref":"master",
+            "ref":"main",
             "url":"https://github.com/JonnycatMeow/hxShaders"
         }
     ]
